@@ -1,9 +1,10 @@
-- 👋 oi, sou Jeferson
-- 👀  Gosto de #Pequária 
--
-- 🌱 Gosto de #Pequária
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 👋  Olá, meu nome é **@jefersom**
+- 👀  Meu email de contato é [email] (jeferson.oliveira.costa@escola.pr.gov.br)
+- 🌱  Eu estou interessado em aprender cada vez mais sobre pequária
+- 💞️  Eu estou aprendendo o manuseio do gado decorte 
+- 📫 
+
 
 <!---
 jeff-vini212/jeff-vini212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
