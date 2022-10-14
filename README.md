@@ -1,6 +1,6 @@
 
 - 👋  Olá, meu nome é **@jefersom**
-- 👀  Meu email de contato é [email] (jeferson.oliveira.costa@escola.pr.gov.br)
+- 👀 :+1:Meu email de contato é [email](jeferson.oliveira.costa@escola.pr.gov.br)
 - 🌱  Eu estou interessado em aprender cada vez mais sobre pequária
 - 💞️  Eu estou aprendendo o manuseio do gado decorte 
 - 📫 
